@@ -4,3 +4,4 @@
 dist/*
 !dist/TQK-MD-Reader-Setup-0.1.0.exe
 !.gitignore
+!README.md
