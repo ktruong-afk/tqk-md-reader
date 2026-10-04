@@ -1,0 +1,6 @@
+# Ignore everything except the installer exe
+*
+!dist/
+dist/*
+!dist/TQK-MD-Reader-Setup-0.1.0.exe
+!.gitignore
